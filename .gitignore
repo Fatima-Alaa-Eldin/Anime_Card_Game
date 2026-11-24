@@ -1,0 +1,12 @@
+# Build files
+**/build/
+**/cmake-build-*/
+**/CMakeFiles/
+**/CMakeCache.txt
+
+# Visual Studio temporary files
+**/.vs/
+**/Debug/
+**/Release/
+*.suo
+*.user
