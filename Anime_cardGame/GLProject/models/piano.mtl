@@ -1,0 +1,122 @@
+# Materials for grand-piano.obj
+
+newmtl Spruce
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 490
+Pr 0.3
+Pm 0
+illum 2
+map_Kd grand-piano-spruce.jpg
+map_Bump -bm 1 grand-piano-spruce_normal.jpg
+
+newmtl Chrome
+Kd 0.902 0.9137 0.9216
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 846.4
+Pr 0.08
+Pm 1
+illum 2
+
+newmtl String_Steel
+Kd 0.8549 0.8667 0.8667
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 562.5
+Pr 0.25
+Pm 1
+illum 2
+
+newmtl String_Bronze
+Kd 0.7882 0.6431 0.4157
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 490
+Pr 0.3
+Pm 1
+illum 2
+
+newmtl Piano_Black
+Kd 0.0431 0.0431 0.0471
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 864.9
+Pr 0.07
+Pm 0
+illum 2
+
+newmtl Piano_Under
+Kd 0.1647 0.1294 0.098
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 40
+Pr 0.8
+Pm 0
+illum 2
+
+newmtl Plate_Gold
+Kd 0.7647 0.6039 0.2745
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 250
+Pr 0.5
+Pm 0.55
+illum 2
+
+newmtl Key_White
+Kd 0.9608 0.9529 0.9255
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 608.4
+Pr 0.22
+Pm 0
+illum 2
+
+newmtl Key_Black
+Kd 0.0588 0.0588 0.0627
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 562.5
+Pr 0.25
+Pm 0
+illum 2
+
+newmtl Felt_Dark
+Kd 0.1059 0.1059 0.1137
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 2.5
+Pr 0.95
+Pm 0
+illum 2
+
+newmtl Felt_Red
+Kd 0.4784 0.0784 0.1255
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 2.5
+Pr 0.95
+Pm 0
+illum 2
+
+newmtl Brass
+Kd 0.7922 0.6275 0.298
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 608.4
+Pr 0.22
+Pm 1
+illum 2
+
+newmtl Leather_Black
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.5 0.5 0.5
+Ns 202.5
+Pr 0.55
+Pm 0
+illum 2
+map_Kd grand-piano-leather.jpg
+map_Bump -bm 1 grand-piano-leather_normal.jpg
